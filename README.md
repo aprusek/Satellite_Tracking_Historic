@@ -1,7 +1,7 @@
 This was posted to Facebook by Dennis Gallagher
 
 I scanned the images and used AI to make it almost runnable.
-I wanted to put this ont on PicoCalc so my target version is MMBASIC.
+I wanted to put this onto a PicoCalc so my target dialect is MMBASIC.
 
 Two issues with MMBASIC are lack of a PRINT USING statement
 and inability to reuse variable names so having A and A$ is not allowed.
