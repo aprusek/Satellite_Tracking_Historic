@@ -1,6 +1,6 @@
 This was posted to Facebook by Dennis Gallagher
 
-I scanned the images and used AI ti make it almost runnable.
+I scanned the images and used AI to make it almost runnable.
 I wanted to put this ont on PicoCalc so my target version is MMBASIC.
 
 Two issues with MMBASIC are lack of a PRINT USING statement
